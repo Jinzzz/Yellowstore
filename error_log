@@ -1,0 +1,10 @@
+[28-Mar-2021 13:17:36 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:07:00 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:32:34 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:32:51 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:33:22 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:33:28 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:33:41 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:35:40 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:35:46 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
+[29-Mar-2021 14:35:55 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\softDeletes' not found in /home/l4oa5w48el4g/public_html/yellowstore.hexeam.org/app/Models/admin/Mst_attribute_value.php on line 11
